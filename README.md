@@ -135,8 +135,6 @@ matchMedia('(prefers-reduced-motion: reduce)').matches
 | `CARD2.md` | 실제 경험과 근거 연결 기록 |
 | `CARD3.md` | 두 해상도 검사 절차와 당시 작업 기록 |
 
-`CARD2.md`·`CARD3.md`는 각 단계에서 작성한 과정 기록입니다. 종합 확인 결과는 이 README와 최종 제출문을 기준으로 확인합니다.
-
 ## 실행
 
 저장소 루트의 `index.html`을 브라우저로 열면 됩니다. 별도의 패키지 설치나 서버 설정은 필요하지 않습니다.
